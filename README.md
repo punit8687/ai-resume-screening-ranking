@@ -1,2 +1,12 @@
-# ai-resume-screening-ranking
-AI-powered system that screens resumes and ranks candidates based on job requirements.
+ai-resume-screening-ranking/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── models/
+├── utils/
+├── static/
+├── templates/
+└── sample_resumes/
